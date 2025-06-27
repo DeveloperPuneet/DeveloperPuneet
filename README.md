@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @DeveloperPuneet
 
 - 👀 I’m interested in **web development, building innovative projects, and exploring new technologies.**
-- 🌱 I’m currently learning **the MERN stack, JavaScript, Go, and expanding my knowledge in full-stack development.**
+- 🌱 I’m currently learning **the JavaScript, Go, and expanding my knowledge in full-stack development.**
 - 💞️ I’m looking to collaborate on **open-source projects, web apps, and anything that pushes the boundaries of tech!**
 - 📫 How to reach me: **[Email](mailto:developerpuneet2010@gmail.com) | [Twitter](https://twitter.com/PuneetKumar2010)**
 - 😄 Pronouns: **He/Him**
