@@ -31,9 +31,5 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperPuneet" alt="Puneet's Profile Summary" />
 
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperPuneet&theme=radical" alt="Puneet's Trophies" />
-
 </div>
 
