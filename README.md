@@ -6,6 +6,8 @@ I love building things from scratch, experimenting with new technologies, and tu
 
 Currently exploring **Python, JavaScript, Machine Learning, AI, Full-Stack Development, and Developer Tools.**
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/DeveloperPuneet/badge.svg)](https://hub.xerj.org/contributors/DeveloperPuneet)
+
 ---
 
 ## 🚀 What I'm Building
@@ -63,7 +65,6 @@ Currently exploring **Python, JavaScript, Machine Learning, AI, Full-Stack Devel
 <a href="mailto:developerpuneet2010@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
-
 </p>
 
 ---
